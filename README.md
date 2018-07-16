@@ -1,4 +1,4 @@
-##TCK: Prueba Técnica
+# TCK: Prueba Técnica
 En la empresa X, dedicada a la realización de chapuzas, se necesita avisar al cliente de la fecha y la hora de comienzo de la obra. Actualmente el aviso lo realiza una operadora, pero esto crea muchos problemas de comunicación, ya que en ocasiones se puede llamar al cliente en un momento en el que se le moleste o que no sea posible contactar antes de la fecha de inicio de la obra.
 El departamento comercial, después de estudiar posibles mejoras al sistema actual se ha decidido a modernizar este sistema y utilizar un sistema de comunicación que envíe las notificaciones automáticamente. Con el nuevo sistema se da la posibilidad al cliente de elegir la forma en la que desea recibir la comunicación. En una primera fase sólo se van a enviar comunicaciones a través de Fax y SMS. 
 Para realizar el envío de los SMSs y de los faxes se ha contratado una empresa que provee un servicio para el envío de faxes y otro servicio para el envío de SMS. Estos servicios sólo necesitan conocer el destinatario (ej: número de teléfono) y el mensaje que se desea enviar.
@@ -10,7 +10,7 @@ Dado el volumen actual de incidencias respecto a las comunicaciones, el departam
 Después de analizar el ecosistema de la empresa y sus necesidades, se ha llegado a la conclusión de que es necesario que el módulo de comunicaciones se encuentre separado del resto de aplicaciones de la empresa.
 Independientemente de la arquitectura (SOA, Microservicios ...) se ha optado por un un enfoque Restful de los web services.
 
-#Diagrama Arquitectura
+# Diagrama Arquitectura
 Realizar un breve diagrama donde se diseñe una solución. Para este diseño se puede hacer uso de cualquier tipo de tecnología (o combinación de estas) para dar una solución al problema.
 Para esta prueba no es relevante conocimientos de powerpoint, photoshop o similares. Realizar el diagrama con la herramienta que seas más ágil, y/o te sientas más cómodo. Un diagrama en un cuaderno o pizarra es suficiente (siempre que se entienda la solución propuesta).
 Definición contrato servicios
