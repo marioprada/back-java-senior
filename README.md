@@ -10,7 +10,7 @@ Dado el volumen actual de incidencias respecto a las comunicaciones, el departam
 Después de analizar el ecosistema de la empresa y sus necesidades, se ha llegado a la conclusión de que es necesario que el módulo de comunicaciones se encuentre separado del resto de aplicaciones de la empresa.
 Independientemente de la arquitectura (SOA, Microservicios ...) se ha optado por un un enfoque Restful de los web services.
 
-# Diagrama Arquitectura
+## Diagrama Arquitectura
 Realizar un breve diagrama donde se diseñe una solución. Para este diseño se puede hacer uso de cualquier tipo de tecnología (o combinación de estas) para dar una solución al problema.
 Para esta prueba no es relevante conocimientos de powerpoint, photoshop o similares. Realizar el diagrama con la herramienta que seas más ágil, y/o te sientas más cómodo. Un diagrama en un cuaderno o pizarra es suficiente (siempre que se entienda la solución propuesta).
 Definición contrato servicios
