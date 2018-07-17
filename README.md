@@ -19,6 +19,6 @@ Para esta prueba no es relevante conocimientos de powerpoint, photoshop o simila
 Implementar una parte de la solución propuesta en los puntos anteriores, por ejemplo, uno de los endpoints definidos en el punto anteriores (hay que tener en cuenta que elegir el endpoint más sencillo no va a aportar mucho valor). El propósito de este punto no es terminar con un proyecto completo listo para producción, sino ver el proceso de trabajo y la solución propuesta.
 No se debería dedicar más de 2-3h a este apartado. Lo importante es poder analizar la forma de trabajar, de diseñar las clases y de testear. No se tendrá en cuenta que la solución final no funcione o esté incompleta.
 ### Anexos
-* ** Para la integración con los servicios existentes (Fax, SMS) dispones de un dummy para la invocación de los servicios ([documento adjunto de Wiremock](wiremock/Wiremock.md)) **
-* ** Como el propósito de esta prueba no es la creación del entorno de trabajo, [dispones de un proyecto base para la implementación](pruebaBack/). **
-* ** Enumera y describe brevemente posibles modificaciones (carencias, mejoras, ampliación de funcionalidad ...) que hayas encontrado durante la realización del ejercicio. **
+* **Para la integración con los servicios existentes (Fax, SMS) dispones de un dummy para la invocación de los servicios ([documento adjunto de Wiremock](wiremock/Readme.md))**
+* **Como el propósito de esta prueba no es la creación del entorno de trabajo, [dispones de un proyecto base para la implementación](pruebaBack/).**
+* **Enumera y describe brevemente posibles modificaciones (carencias, mejoras, ampliación de funcionalidad ...) que hayas encontrado durante la realización del ejercicio.**
