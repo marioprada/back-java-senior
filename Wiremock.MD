@@ -5,9 +5,9 @@ http://repo1.maven.org/maven2/com/github/tomakehurst/wiremock-standalone/2.1.12/
 En una carpeta vacía:
 1) Copiamos el jar de wiremock
 2) En esta misma carpeta, creamos una carpeta mappings y añadimos los siguientes ficheros:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - tck.fax.fail.json
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - tck.fax.success.json
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - tck.sms.fail.json
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - tck.sms.success.json
+* tck.fax.fail.json
+* tck.fax.success.json
+* tck.sms.fail.json
+* tck.sms.success.json
 3) Desde la carpeta donde copiamos el jar del wiremock, ejecutamos el siguiente comando:
 	java -jar wiremock-standalone-2.1.12.jar -v --port 9100
