@@ -18,7 +18,7 @@ Java Persistence API including spring-data-jpa, spring-orm and Hibernate
 H2 database (with embedded support)
 
 **Documentar el API Rest con swagger y swagger-ui.**
-#### Configuración Datasource
+### Configuración Datasource
 Si utilizas H2 como database, añade al application.properties la configuración:
 *spring.datasource.url=jdbc:h2:mem:domain;DB_CLOSE_ON_EXIT=FALSE*
 *spring.datasource.username=*
