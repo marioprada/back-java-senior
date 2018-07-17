@@ -11,14 +11,14 @@ Después de analizar el ecosistema de la empresa y sus necesidades, se ha llegad
 Independientemente de la arquitectura (SOA, Microservicios ...) se ha optado por un un enfoque Restful de los web services.
 
 ## Diagrama Arquitectura
-Realizar un breve diagrama donde se diseñe una solución. Para este diseño se puede hacer uso de cualquier tipo de tecnología (o combinación de estas) para dar una solución al problema.
+* Realizar un breve diagrama donde se diseñe una solución. Para este diseño se puede hacer uso de cualquier tipo de tecnología (o combinación de estas) para dar una solución al problema.
 Para esta prueba no es relevante conocimientos de powerpoint, photoshop o similares. Realizar el diagrama con la herramienta que seas más ágil, y/o te sientas más cómodo. Un diagrama en un cuaderno o pizarra es suficiente (siempre que se entienda la solución propuesta).
-Definición contrato servicios
-Definir los endpoints principales del módulo de comunicaciones e indicar qué decisiones se han tomado para conseguir una definición lo más cercana a Restful. Incluir en la documentación cómo quedarían la petición y las posibles respuestas para cada uno de los endpoints definidos.
-Implementación Solución
+* Definición contrato servicios
+* Definir los endpoints principales del módulo de comunicaciones e indicar qué decisiones se han tomado para conseguir una definición lo más cercana a Restful. Incluir en la documentación cómo quedarían la petición y las posibles respuestas para cada uno de los endpoints definidos.
+## Implementación Solución
 Implementar una parte de la solución propuesta en los puntos anteriores, por ejemplo, uno de los endpoints definidos en el punto anteriores (hay que tener en cuenta que elegir el endpoint más sencillo no va a aportar mucho valor). El propósito de este punto no es terminar con un proyecto completo listo para producción, sino ver el proceso de trabajo y la solución propuesta.
 No se debería dedicar más de 2-3h a este apartado. Lo importante es poder analizar la forma de trabajar, de diseñar las clases y de testear. No se tendrá en cuenta que la solución final no funcione o esté incompleta.
-Para la integración con los servicios existentes (Fax, SMS) dispones de un dummy para la invocación de los servicios (documento adjunto de Wiremock).
-Como el propósito de esta prueba no es la creación del entorno de trabajo, dispones de un documento adjunto describiendo una forma de generar un proyecto base.
-Propuesta de Mejoras
-Enumera y describe brevemente posibles modificaciones (carencias, mejoras, ampliación de funcionalidad ...) que hayas encontrado durante la realización del ejercicio.
+### Anexos
+* ** Para la integración con los servicios existentes (Fax, SMS) dispones de un dummy para la invocación de los servicios ([documento adjunto de Wiremock](wiremock/Wiremock.md)) **
+* ** Como el propósito de esta prueba no es la creación del entorno de trabajo, [dispones de un proyecto base para la implementación](pruebaBack/). **
+* ** Enumera y describe brevemente posibles modificaciones (carencias, mejoras, ampliación de funcionalidad ...) que hayas encontrado durante la realización del ejercicio. **
